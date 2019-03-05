@@ -1,4 +1,5 @@
 # web_page_scraper
+(made in nov. 2018)
 
 I've made 2 little scripts to scrap some pictures from the web in order to gather enough data to train an image classifier model (CNN).
 
